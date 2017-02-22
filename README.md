@@ -12,4 +12,4 @@ is equal to, or exceeds the user-specified minimum order size (e.g., for the ord
 
 ## How to use
 
-Just upload a .csv data file describing sales history and current SOH levels of your stock (example data file is in the ```/data``` directory, your data files should adhere to the same format), and hit the "Calculate re-order" button. The new order will be displayed in the "Stock re-order" tab. Adjust the numbers in the control panel on the left, if necessary, and re-calculate the order.
+Just upload a .csv data file describing sales history and current SOH levels of your stock (example data file is in the ```/data``` directory, your data files should adhere to the same format), and hit the "Calculate re-order" button. The new order will be displayed in the "Stock re-order" tab. If necessary, adjust the numbers in the control panel on the left, and re-calculate the order.
